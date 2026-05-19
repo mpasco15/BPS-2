@@ -30,4 +30,4 @@ def test_maybe_build_inputs_with_values():
 
     assert inputs is not None
     assert inputs.security_passed is True
-    assert inputs.compliance_blocking_fail_count == 0
+    assert inputs.compliance_blocking_fail_count == 0   
