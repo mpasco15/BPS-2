@@ -305,4 +305,4 @@ def export_regime_optimization_report(
         encoding="utf-8",
     )
 
-    return output_path
+    return output_path 
